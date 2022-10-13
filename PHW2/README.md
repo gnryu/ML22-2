@@ -260,7 +260,7 @@ It uses silhouette_score and matplotlib internally.
 
 <h2> Team Member Contribution </h2>
 
-201835421 김범기: 25%, discussion, write the code, anaylsis
-202035531 유지나: 25%, discussion, write the code, anaylsis
-202037071 정지우: 25%, discussion, write the code, anaylsis
+201835421 김범기: 25%, discussion, write the code, anaylsis <br>
+202035531 유지나: 25%, discussion, write the code, anaylsis <br>
+202037071 정지우: 25%, discussion, write the code, anaylsis <br>
 202299092 백우진: 25%, discussion, write the code, anaylsis
