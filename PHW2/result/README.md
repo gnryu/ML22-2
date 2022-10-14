@@ -13,7 +13,7 @@ So a total of four files were created as follows.
 
 <br>
 
-We also upload .py file because the capacity of .ipynb file is too large to be rendered. Please refer to the attached Google Colaboratory link if you want to see the visualization results.
+The capacity of .ipynb file is too large to be rendered. Please refer to the attached Google Colaboratory link if you want to see the visualization results.
 
 - K-means: https://drive.google.com/file/d/1tu4xIGmTH_WeTAo6XGiNa38Ac9ICWtYK/view?usp=sharing
 - DBSCAN_EM: https://drive.google.com/file/d/12yUzIZCvy1VM-oIy4H_9fHlY9LiF42J7/view?usp=sharing
